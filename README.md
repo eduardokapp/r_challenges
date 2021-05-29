@@ -30,6 +30,7 @@ If you don't know where to go first, read this.
 (`inbetween_integers.R`).
 - A program that finds out if any two elements in an array sum up to a
 predefined value `k` (`any_two_elements.R`).
+- Implementation of a string character sorter by frequency (`sort_chars_by_freq.R`).
 
 ## Causal Inference / Causal Discovery
 - A parser for the `bnlearn` package output. (`arcs_to_numbers.R`).
