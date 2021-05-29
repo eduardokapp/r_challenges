@@ -26,6 +26,10 @@ If you don't know where to go first, read this.
 
 ## Computer Science / Algebra
 - A program that finds out whether or not a matrix is a toeplitz matrix. (`toeplitz_solver.R`).
+- Routine that determines all integers between two real values A and B.
+(`inbetween_integers.R`).
+- A program that finds out if any two elements in an array sum up to a
+predefined value `k` (`any_two_elements.R`).
 
 ## Causal Inference / Causal Discovery
 - A parser for the `bnlearn` package output. (`arcs_to_numbers.R`).
